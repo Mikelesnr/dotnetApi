@@ -66,4 +66,12 @@ public class PizzaController : ControllerBase
 
         return NoContent();
     }
+
+    [HttpPost("generate-report")]
+    public IActionResult GenerateReport()
+    {
+        SalesReportGenerator.GenerateSummary("sales.txt", "sales-summary.txt");
+        return Ok("Report generated.");
+    }
+
 }

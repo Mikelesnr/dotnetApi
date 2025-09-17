@@ -16,6 +16,7 @@
 /home/michael-mwanza/Documents/C#FileManagement/dotnetApi/obj/Debug/net8.0/dotnetApi.csproj.CoreCompileInputs.cache
 /home/michael-mwanza/Documents/C#FileManagement/dotnetApi/obj/Debug/net8.0/dotnetApi.MvcApplicationPartsAssemblyInfo.cs
 /home/michael-mwanza/Documents/C#FileManagement/dotnetApi/obj/Debug/net8.0/dotnetApi.MvcApplicationPartsAssemblyInfo.cache
+/home/michael-mwanza/Documents/C#FileManagement/dotnetApi/obj/Debug/net8.0/dotnetApi.sourcelink.json
 /home/michael-mwanza/Documents/C#FileManagement/dotnetApi/obj/Debug/net8.0/staticwebassets.build.json
 /home/michael-mwanza/Documents/C#FileManagement/dotnetApi/obj/Debug/net8.0/staticwebassets.development.json
 /home/michael-mwanza/Documents/C#FileManagement/dotnetApi/obj/Debug/net8.0/staticwebassets/msbuild.dotnetApi.Microsoft.AspNetCore.StaticWebAssets.props

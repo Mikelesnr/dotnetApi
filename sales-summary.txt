@@ -1,0 +1,7 @@
+Sales Summary Report
+---------------------
+Pizza ID: 1, Quantity: 3, Subtotal: $38.97
+Pizza ID: 2, Quantity: 2, Subtotal: $31.00
+Pizza ID: 3, Quantity: 1, Subtotal: $10.00
+---------------------
+Total Sales: $79.97
